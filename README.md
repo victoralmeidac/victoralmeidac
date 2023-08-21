@@ -2,13 +2,12 @@
 <div align="left"><br>
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
   
-  ## <b> About Me 😎 </b>
+  ## <b> Sobre mim 😎 </b>
  
-  <p>- 🔭 I'm working as a Support Analyst </p>
-  <p>- 😄 Pronouns: ele/dele | he/him </p>
-  <p>- 🎸 Hobbies: Play video games, Cinema and Guitar  </p>
-  <p>- 💻 Favorite Language: Javascript - C# </p>
-  <p>- 📚 Currently Studying: HTML - CSS - JavaScript - React</p>
+  <p>- 🔭 Atualmente trabalho como Analista de Qualidade </p>
+  <p>- 🎸 Hobbies: Futebo, Video Games  </p>
+  <p>- 💻 Liguagem Favorita: Java </p>
+  <p>- 📚 Atualmente Estudando: Java - HTML - CSS - JavaScript - React</p>
 </div>
 <br>
 <br> 
