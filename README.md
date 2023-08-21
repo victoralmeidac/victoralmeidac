@@ -37,7 +37,3 @@
 </a>
         
 </div>
-
-<br>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=200&section=footer" />
