@@ -5,7 +5,7 @@
   ## <b> Sobre mim 😎 </b>
  
   <p>- 🔭 Atualmente trabalhando como Analista de Qualidade </p>
-  <p>- 🎸 Hobbies: Futebol, Video Games </p>
+  <p>- 🎮 Hobbies: Futebol, Video Games </p>
   <p>- 💻 Linguagem Favorita: Java </p>
   <p>- 📚 Atualmente Estudando: Java - HTML - CSS - JavaScript - React</p>
 </div>
