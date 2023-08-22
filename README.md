@@ -13,6 +13,7 @@
 <br> 
 
   ## <b> GitHub Stats ⚡ </b>
+  
 <br>
 <br>
 
@@ -20,8 +21,7 @@
   <a href="https://beacons.ai/victoralmeidac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoralmeidac&show_icons=true&include_all_commits=true&theme=outrun&hide_border=false" a/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoralmeidac&layout=compact&theme=outrun&hide_border=false&hide_progress=true" />
-</div>  
-    
+</div>            
     
   ## <b>Onde me encontrar 🗺</b>
 <br>
@@ -35,6 +35,10 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </a>
-        
+<br>
+<br>
+<br>
+<br>
+    
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5D3FD3&height=200&section=footer" />
