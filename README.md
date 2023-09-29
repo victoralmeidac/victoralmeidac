@@ -7,7 +7,7 @@
   <p>- 🔭 Atualmente trabalhando como Analista de Qualidade </p>
   <p>- 🎮 Hobbies: Futebol, Video Games </p>
   <p>- 💻 Linguagem Favorita: Java </p>
-  <p>- 📚 Atualmente Estudando: Java - HTML - CSS - JavaScript - React</p>
+  <p>- 📚 Atualmente Estudando: Java - Python - AWS</p>
 </div>
 <br>
 <br> 
